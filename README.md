@@ -1,5 +1,5 @@
-# chat-gpt-results
-OpenAI ChatGPT Results
+# OpenAI ChatGPT Results
+
 
 # 12/6/22
 
@@ -15,3 +15,16 @@ I need to add a 2nd function that replaces all instances of non-alphanumeric cha
 I've made changes to a file in git. I want those changes to persist locally without pushing them up to Github and having to continue undoing the changes. What command can I run to assume the changes haven't changed?
 
 ![image](https://user-images.githubusercontent.com/1211905/206049091-d33abe13-fb95-47d7-abe3-58f9589be595.png)
+
+
+# Previous Days 
+
+Convert to React Native:
+
+![756BC08A-2714-432E-A331-04A89F0F0809](https://user-images.githubusercontent.com/1211905/206049424-9f636587-bb21-4e3d-ba45-e4d8549129d1.jpeg)
+
+Convert to Typescript
+![864DA14C-2CFB-44AF-8741-59F53FE6E043](https://user-images.githubusercontent.com/1211905/206049529-37d6da6d-f3f6-40aa-802e-448568adfe21.jpeg)
+
+Finding all occurences of "hello" using Grep:
+![5B5F2BCF-A31C-4B00-B13E-E4D459A9268C_1_105_c](https://user-images.githubusercontent.com/1211905/206049738-d5d463ed-b388-4763-b880-f9641af1de41.jpeg)
