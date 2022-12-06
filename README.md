@@ -1,5 +1,7 @@
 # OpenAI ChatGPT Results
 
+A collection of some real-world work use cases of ChatGPT at work.
+
 
 # 12/6/22
 
