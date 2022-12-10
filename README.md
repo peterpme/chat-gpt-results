@@ -7,6 +7,10 @@ A collection of some real-world work use cases of ChatGPT at work.
 
 ![image](https://user-images.githubusercontent.com/1211905/206865956-1602fdbe-4615-4591-a1a3-1bde34df04d5.png)
 
+It took 3 tries but I finally got my answer:
+
+![image](https://user-images.githubusercontent.com/1211905/206866275-7fbf7f22-a069-4022-b4ee-0235da71402f.png)
+
 - I need javascript regex that follows this set of rules:
 
 Keys may contain alphanumeric characters ., -, and _.
