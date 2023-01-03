@@ -2,6 +2,9 @@
 
 A collection of some real-world work use cases of ChatGPT at work.
 
+- Use both rg and fg together to search for specific things in specific files
+![image](https://user-images.githubusercontent.com/1211905/210288531-49c0ee83-1ed5-4800-a5d5-0bd1efa0b2c1.png)
+
 
 - Debounce or throttle a command in lua / hammerspoon
 
